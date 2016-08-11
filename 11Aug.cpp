@@ -1,9 +1,5 @@
-Hello from the other side
-
-blah
-
-blah
-
-blah
-
-blah
+#include<iostream.h>
+void main()
+{
+cout<<"\nHello from the other side";
+}
